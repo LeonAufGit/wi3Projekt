@@ -8,11 +8,8 @@
     "start": "next start",
     "lint": "eslint"
   },
-  "engines": {
-    "node": ">=20.9.0"
-  },
   "dependencies": {
-    "@strapi/strapi": "^5.0.0",
+    "@strapi/strapi": "^4.26.0",
     "axios": "^1.6.0",
     "next": "16.0.0",
     "react": "^18.2.0",
